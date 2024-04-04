@@ -1,0 +1,5 @@
+			Source to Destination		 Distance						Path
+using Dijkstra: Akka to Jenin 		       71						Akka->Nazareth->Jenin
+using BFS: Akka to Jenin 		           74						Akka->Jenin
+using Dijkstra: Bethlehem to Nazareth 	   161						Bethlehem->Jericho->Tubas->Jenin->Nazareth
+using BFS: Bethlehem to Nazareth 		   207						Bethlehem->Jaffa->Tulkarem->Haifa->Nazareth
